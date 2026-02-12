@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">calculater</string>
+    <string name="text_add">+</string>
+    <string name="text_sup">-</string>
+    <string name="text_mul">X</string>
+    <string name="text_div">/</string>
+    <string name="text_equal">=</string>
+    <string name="text_percent">%</string>
+
+
+    <string name="text_dot">.</string>
+    <string name="text_num0">0</string>
+    <string name="text_numC">C</string>
+    <string name="text_num1">1</string>
+    <string name="text_num2">2</string>
+    <string name="text_num3">3</string>
+    <string name="text_num4">4</string>
+    <string name="text_num5">5</string>
+    <string name="text_num6">6</string>
+    <string name="text_num7">7</string>
+    <string name="text_num8">8</string>
+    <string name="text_num9">9</string>
+
+</resources>
